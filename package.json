@@ -1,0 +1,28 @@
+{
+  "name": "simpleterminal",
+  "version": "1.0.0",
+  "description": "一个简单的终端",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/id88/simpleTerminal.git"
+  },
+  "keywords": [
+    "vue",
+    "electron",
+    "terminal"
+  ],
+  "author": "id88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/id88/simpleTerminal/issues"
+  },
+  "homepage": "https://github.com/id88/simpleTerminal#readme",
+  "devDependencies": {
+    "electron": "^27.0.2"
+  }
+}
